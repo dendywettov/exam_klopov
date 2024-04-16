@@ -1,0 +1,2 @@
+/home/user/RiderProjects/klopov1/klopov1/obj/Debug/net8.0/klopov1.csproj.AssemblyReference.cache
+/home/user/RiderProjects/klopov1/klopov1/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
